@@ -15,7 +15,9 @@
 		<key>TextColor</key>
 		<string>#FF6655</string>
 		<key>TextYoffset</key>
-		<integer>4</integer>
+		<integer>3</integer>
+		<key>TextXoffset</key>
+		<integer>2</integer>
 	</dict>
 	<key>CalendarIconDaySettings</key>
 	<dict>
