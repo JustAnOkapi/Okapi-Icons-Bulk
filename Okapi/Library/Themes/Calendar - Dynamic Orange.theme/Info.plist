@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PackageName</key>
+	<string>Okapi Calendars</string>
+	<key>ThemeType</key>
+	<string>Icons</string>
+	<key>CalendarIconDateSettings</key>
+	<dict>
+		<key>FontSize</key>
+		<integer>24</integer>
+		<key>FontName</key>
+		<string>HelveticaNeue-Medium</string>
+		<key>TextColor</key>
+		<string>#00B5FE</string>
+		<key>TextYoffset</key>
+		<integer>4</integer>
+	</dict>
+	<key>CalendarIconDaySettings</key>
+	<dict>
+		<key>FontSize</key>
+		<integer>0</integer>
+		<key>ShadowBlurRadius</key>
+		<integer>0</integer>
+		<key>ShadowColor</key>
+		<string>rgba(0, 0, 0, 0.0)</string>
+		<key>TextColor</key>
+		<string>rgba(0, 0, 0, 0.0)</string>
+		<key>TextYoffset</key>
+		<real>0</real>
+	</dict>
+	<key>IB-MaskIcons</key>
+	<true/>
+</dict>
+</plist>
